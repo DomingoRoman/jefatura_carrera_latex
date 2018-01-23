@@ -1,18 +1,16 @@
 \documentclass{article}
 % pre'ambulo
-
 \usepackage{lmodern}
 \usepackage[T1]{fontenc}
 \usepackage[spanish,activeacute]{babel}
 \usepackage{mathtools}
-
 \usepackage[utf8]{inputenc}
 
-\title{Informe de la Jefatura de Carrera de Pedagogía en Castellano
-enero 2018}
-\author{Domingo Román Montes de Oca}
+\title {Informe de la Carrera de Pedagog\'ia en Castellano a\~no 2017}
+\author{Domingo Rom\'an Montes de Oca}
 
 \begin{document}
+\maketitle
 
 \section{Presentaci'on}
 
