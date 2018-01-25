@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage [spanish] {babel} 
+\usepackage [T1]{fontenc}
+\usepackage [utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{graphicx}
+\usepackage{titling}
+
+
+\begin{document}
+
+
+Santiago, \today
+\\ \\ \\
+\begin{center}
+\begin{Large}
+Constancia
+\end{Large}
+\end{center}
+
+
+\\El suscrito hace constar el hecho de que XXXXX se encuentra ....
+
+
+\\Se extiende la presente constancia para los fines de entrevista laboral
+
+Atentamente
+\begin{center}
+Domingo Román Montes de Oca\\
+Jefe de Carrera\\
+Pedagogía en Castellano\\
+USACH
+\end{center}
+\end{document}
