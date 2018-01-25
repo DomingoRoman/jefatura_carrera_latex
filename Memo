@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage [spanish] {babel} 
+\usepackage [T1]{fontenc}
+\usepackage [utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{graphicx}
+\usepackage{titling}
+
+
+\begin{document}
+
+\begin{center}
+\begin{Large}
+Memorando Nº 
+\end{Large}
+\end{center}
+
+
+De: Domingo Román\\ 
+
+Para: \\
+
+Asunto: \\
+
+Fecha: \today
+\\ \\
+\\Según lo conversado...\\ \\ \\
+
+
+
+
+Atentamente
+\begin{center}
+Domingo Román Montes de Oca\\
+Jefe de Carrera\\
+Pedagogía en Castellano\\
+USACH
+\end{center}
+
+CC:
+
+\end{document}
