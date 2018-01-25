@@ -8,10 +8,15 @@
 
 
 \begin{document}
+\begin{document}
+\begin{figure}
+  \centering
+    \includegraphics{Imagousach_4}
+\end{figure}
 
 
-Santiago, \today
-\\ \\ \\
+\begin{flushright} Santiago, {\today}
+\end{flushright}
 \begin{center}
 \begin{Large}
 Constancia
@@ -31,4 +36,12 @@ Jefe de Carrera\\
 Pedagogía en Castellano\\
 USACH
 \end{center}
+
+\begin{flushright} 
+\begin{small} 
+DEPARTAMENTO DE LINGÜÍSTICA Y LITERATURA\\
+Av. Ecuador Nº 3659\\
+Estación Central · Santiago · Chile · Teléfono (56-2) 27182334
+\end{small} 
+\end{flushright}
 \end{document}
