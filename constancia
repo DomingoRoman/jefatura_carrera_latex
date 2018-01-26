@@ -12,9 +12,6 @@
 \newcommand{\nombre}{Nombre Apellido }
 \newcommand{\rut}{999888777}
 
-
-
-
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
 
@@ -43,7 +40,7 @@ El suscrito hace constar el hecho de que \nombre (rut \rut) ha concluido todas l
 
 \par
 \vspace{30}
-Se extiende la presente constancia para los fines de entrevista laboral de la interesada
+Se extiende la presente constancia ser presentada en una entrevista laboral.
 \par
 \vspace{40}
 
