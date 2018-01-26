@@ -9,6 +9,12 @@
 \pagestyle{fancy}
 \fancyhf{}
 
+\newcommand{\nombre}{Nombre Apellido }
+\newcommand{\rut}{999888777}
+
+
+
+
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0.4pt}
 
@@ -33,10 +39,11 @@ Constancia\\
 \end{center}
 \vspace{50}
 
-El suscrito hace constar el hecho de que XXXXX se encuentra
+El suscrito hace constar el hecho de que \nombre (rut \rut) ha concluido todas las asignaturas de la carrera y rindió exitosamente su examen de grado. En consecuencia, solo le quedan algunos trámites para poder obtener oficialmente el título profesional.
+
 \par
 \vspace{30}
-Se extiende la presente constancia para los fines de entrevista laboral
+Se extiende la presente constancia para los fines de entrevista laboral de la interesada
 \par
 \vspace{40}
 
