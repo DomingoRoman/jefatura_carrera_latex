@@ -5,31 +5,44 @@
 \usepackage{lmodern}
 \usepackage{graphicx}
 \usepackage{titling}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
 
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Pie de página
+\fancyfoot[LE,RO]
+{DEPARTAMENTO DE LINGÜÍSTICA Y LITERATURA\\
+Av. Ecuador Nº 3659\\
+Estación Central, Santiago, Chile. Teléfono (56-2) 27182334}
+
+% Encabezado de página
+\rhead{\begin{picture}(0,0) \put(-106,0){\includegraphics[width=40mm]{./Imagousach_4}} \end{picture}}
+\fancyhead[LO]
 
 \begin{document}
-\begin{document}
-\begin{figure}
-  \centering
-    \includegraphics{Imagousach_4}
-\end{figure}
 
-
-\begin{flushright} Santiago, {\today}
-\end{flushright}
+\begin{flushright} Santiago, {\today}\end{flushright}
+\vspace{50}
 \begin{center}
 \begin{Large}
-Constancia
+Constancia\\
 \end{Large}
 \end{center}
+\vspace{50}
 
+El suscrito hace constar el hecho de que XXXXX se encuentra
+\par
+\vspace{30}
+Se extiende la presente constancia para los fines de entrevista laboral
+\par
+\vspace{40}
 
-\\El suscrito hace constar el hecho de que XXXXX se encuentra ....
-
-
-\\Se extiende la presente constancia para los fines de entrevista laboral
-
-Atentamente
+Atentamente,
+\par
+\vspace{60}
 \begin{center}
 Domingo Román Montes de Oca\\
 Jefe de Carrera\\
@@ -37,11 +50,4 @@ Pedagogía en Castellano\\
 USACH
 \end{center}
 
-\begin{flushright} 
-\begin{small} 
-DEPARTAMENTO DE LINGÜÍSTICA Y LITERATURA\\
-Av. Ecuador Nº 3659\\
-Estación Central · Santiago · Chile · Teléfono (56-2) 27182334
-\end{small} 
-\end{flushright}
 \end{document}
