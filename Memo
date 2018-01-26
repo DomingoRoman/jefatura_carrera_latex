@@ -5,38 +5,67 @@
 \usepackage{lmodern}
 \usepackage{graphicx}
 \usepackage{titling}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
 
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Pie de página
+\fancyfoot[LE,RO]
+{DEPARTAMENTO DE LINGÜÍSTICA Y LITERATURA\\
+Av. Ecuador Nº 3659\\
+Estación Central, Santiago, Chile. Teléfono (56-2) 27182334}
+
+% Encabezado de página
+\rhead{\begin{picture}(0,0) \put(-106,0){\includegraphics[width=40mm]{./Imagousach_4}} \end{picture}}
+\fancyhead[LO]
 
 \begin{document}
-
+\vspace{50}
 \begin{center}
 \begin{Large}
-Memorando Nº 
+Memorando
 \end{Large}
 \end{center}
 
 
-De: Domingo Román\\ 
-
-Para: \\
-
-Asunto: \\
-
+\vspace{10}
+\par
+De: 
+\par
+\vspace{10}
+Para:
+\par
+\vspace{10}
+Asunto:
+\par
+\vspace{10}
 Fecha: \today
-\\ \\
-\\Según lo conversado...\\ \\ \\
+\par
+\rule{41.5mm}{0.1mm}
+\par
+\vspace{50}
 
 
+De acuerdo con mlkñlfkasdñlfkasñldfkasñlkfdñlak
+ 
+\par
+\vspace{40}
 
-
-Atentamente
+Atentamente,
+\par
+\vspace{60}
 \begin{center}
 Domingo Román Montes de Oca\\
 Jefe de Carrera\\
 Pedagogía en Castellano\\
 USACH
 \end{center}
+\par
+\vspace{150}
+cc:
 
-CC:
 
 \end{document}
